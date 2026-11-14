@@ -1,0 +1,32 @@
+{
+  "source": "https://www.anthropic.com/news (example: a new AI model release)",
+  "posts": [
+    {
+      "platform": "linkedin",
+      "text": "AI tools are no longer just chatbots.\n\nThis week another frontier model shipped with better reasoning and longer memory. For small businesses in Pakistan, the real question is not \"which model is best?\" but \"which boring task can I automate this month?\"\n\nThree places we see quick wins with clients:\n1. Replying to repeated customer questions on WhatsApp\n2. Turning meeting notes into tasks automatically\n3. Drafting weekly social media posts from industry news\n\nStart with one workflow, measure the hours saved, then scale.\n\nWhich task would you automate first?",
+      "hashtags": ["#AI", "#Automation", "#SmallBusiness", "#Pakistan"],
+      "link": "https://d2logix.com"
+    },
+    {
+      "platform": "instagram",
+      "text": "Your business can save 10+ hours a week. ⏱️\n\nAI can now answer FAQs, sort leads and draft your posts, while you focus on clients.\n\nWant to see how? DM us \"AI\" or tap the link in bio. 🚀",
+      "hashtags": ["#AI", "#Automation", "#BusinessTips", "#Pakistan", "#D2Logix", "#Productivity"]
+    },
+    {
+      "platform": "tiktok",
+      "text": "3 boring tasks AI can do for your business today 👇 Which one do you hate most?",
+      "hashtags": ["#AI", "#BusinessTips", "#Automation"]
+    },
+    {
+      "platform": "youtube",
+      "title": "3 Tasks AI Can Automate for Your Business Today",
+      "text": "WhatsApp replies, meeting notes and social posts: here is how small businesses automate them with AI.\n\nFree consultation: https://d2logix.com",
+      "hashtags": ["#AI", "#Automation", "#Shorts"]
+    },
+    {
+      "platform": "x",
+      "text": "Stop asking \"which AI model is best?\" Ask \"which boring task can I automate this month?\" Start with one. Measure hours saved. Scale.",
+      "hashtags": ["#AI"]
+    }
+  ]
+}
